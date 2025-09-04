@@ -1,1 +1,1 @@
-<h1>Simple CSV Data Uploader Plugin for wordpress</h1>
+<h1>Simple CSV Data Uploader Plugin for WordPress </h1>
